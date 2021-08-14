@@ -4,7 +4,7 @@ I am developing Front-end for 3 years. I am engaged in the development of Progre
 
 ## Main Info ##
 - My name is Nikita.
-- I am 17 year old.
+- I am 18 year old.
 - I love Front-end and everything connected with it.
 
 ### My tool stack: ###
