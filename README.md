@@ -34,9 +34,10 @@ I am developing Front-end for 3 years. I am engaged in the development of Progre
     - SVG
 
 - #### Linting: ####
+    - ESLint
     - Prettier
     - Stylelint
-    - Editor Config
+    - CommitLint
 
 - #### Additional tools: ####
     - Git
