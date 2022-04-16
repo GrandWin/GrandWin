@@ -1,50 +1,14 @@
-# Hi, I’m Grand_Win, Middle Front-end Developer. #
+Stack:
+• JavaScript / Typescript (TS - prefer)
+• Vue.js v2-3 (v3 - prefer)
+• State Managment: Pinia / Vuex (Pinia - prefer)
+• Vue Router & Vue Loader & JSX / TSX
+• Nuxt.js v2-3 (v3 - prefer)
+• HTML / CSS
+• SASS & SCSS / LESS
+• Electron & Capacitor
+• yarn & npm (yarn - prefer)
+• ESLint & Prettier & StyleLint & CommitLint
+• Git & Trello & Figma & Jira
 
-I'm developing Front-end for 3 years. I am engaged in the development of Progressive Web Applications (PWA), Single Page Application (SPA), Web Applications, Landing pages, Desktop Applications of various levels of complexity.
-
-## Main Info ##
-- My name is Nikita.
-- I'm 18 year old.
-- I love Front-end and everything connected with it.
-
-### My tool stack: ###
-
-- ####  Development: ####
-    - Vue (v2)
-        - Vuex 
-        - Vue-router
-        - Vue-meta
-        - Vue-loader
-        - etc ecosystem...
-    - Nuxt
-        - CSR
-        - SSR
-    - JavaScript
-        - EcmaScript v5-11
-        - TypeScript
-    - Electron
-    - HTML
-        - Semantic
-        - Accessibility
-        - SEO
-    - CSS
-        - BEM
-        - PostCSS
-        - SASS / SCSS
-    - SVG
-
-- #### Linting: ####
-    - ESLint
-    - Prettier
-    - Stylelint
-    - CommitLint
-
-- #### Additional tools: ####
-    - Git
-    - Trello
-    - Figma
-
-### Contact with me: ###
-  + Via Telegram: [@Grand_W1n](https://t.me/Grand_W1n "Open in Telegram")
-  + Via Mail: mrgrandwinnow@gmail.com
-  + Via Discord: Grand_Win#0001
+Telegram: [@Grand_W1n](https://t.me/Grand_W1n "Open in Telegram")
