@@ -3,6 +3,7 @@
 - Vue.js v2-3 (v3 - prefer)
 - State Managment: Pinia / Vuex (Pinia - prefer)
 - Vue Router & Vue Loader & JSX / TSX
+- Vite / Webpack
 - Nuxt.js v2-3 (v3 - prefer)
 - HTML / CSS
 - SASS & SCSS / LESS
