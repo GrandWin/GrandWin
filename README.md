@@ -1,5 +1,5 @@
 # Stack: #
-- JavaScript / Typescript (TS - prefer)
+- JS / TS (TS - prefer)
 - Vue.js v3 (also work with v2)
 - Pinia / Vuex (Pinia - prefer)
 - Vue Router & Vue Loader & JSX / TSX
