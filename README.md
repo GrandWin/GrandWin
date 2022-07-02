@@ -1,16 +1,17 @@
 # Stack: #
-- JS / TS (TS - prefer)
-- Vue.js v3 (also work with v2)
-- Pinia / Vuex (Pinia - prefer)
+- JavaScript / TypeScript
+- Vue.js v3
+- Pinia / Vuex
 - Vue Router & Vue Loader & JSX / TSX
 - Vite / Webpack
 - HTML / CSS
 - SASS & SCSS / LESS
 - REST / WebSockets
-- yarn & npm (yarn - prefer)
+- yarn & npm
 - ESLint & Prettier & StyleLint & CommitLint
-- Git & Trello & Figma & Jira
+- Git & Jira & Trello & Figma
 ## Also work with: #
+- Vue.js v2
 - Nuxt.js v2
 - Electron & Capacitor
 
