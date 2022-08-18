@@ -1,16 +1,17 @@
-### Hi there 👋
+# Main Stack: #
+- TypeScript / JavaScript
+- Vue.js v2-3
+- Pinia / Vuex
+- Vue Router & Vue Loader & JSX / TSX
+- Vite / Webpack
+- HTML / CSS
+- SASS & SCSS / LESS
+- REST / WebSockets / PWA
+- yarn & npm
+- ESLint & Prettier & StyleLint & CommitLint
+- Git & Jira & Trello & Figma
+## Also work with: #
+- Nuxt.js v2
+- Electron & Capacitor
 
-<!--
-**GrandWin/GrandWin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Telegram: [@Grand_W1n](https://t.me/Grand_W1n "Open in Telegram")
