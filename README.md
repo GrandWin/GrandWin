@@ -17,7 +17,7 @@
 - Vuetify v3
 - Nuxt.js v2
 - Vuex / JSX & TSX
-- Electron & Capacitor
+- Electron / Capacitor
 - LESS / Stylus
 - StyleLint / CommitLint
 
