@@ -3,19 +3,22 @@
 - Vue.js v3
 - Pinia / Vue Router
 - Vite
+- Vitest
 - HTML5 / CSS3 / SVG
 - TailwindCSS / SASS & SCSS
-- yarn / npm
+- pnpm / npm / yarn
 - Docker
-- ESLint / Prettier
+- ESLint / Prettier / Browserslist
 - Git / Git Flow
 - OOP, SOLID, KISS, DRY, YAGNI, Software Design Patterns
 - Jira / Figma
 - Scrum / Agile
+- Open Source Contributor
 ## Also work with: #
 - Vue.js v2
 - Vuetify v3
 - Nuxt.js v2
+- React
 - Vuex / JSX & TSX
 - Webpack
 - Electron / Capacitor
